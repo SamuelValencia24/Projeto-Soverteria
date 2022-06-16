@@ -1,0 +1,87 @@
+header, section{
+	width: 100%;
+	margin: auto;
+}
+body {
+	background-color: #cfbccf;
+}
+
+#endereco{
+	background-color: #4169E1;
+	color: #FFFFFF;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+
+#navegacao{
+	display: flex;
+	height: 100px;
+}
+
+#menu{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 30%;
+}
+
+#tito{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50%;
+	text-align: center;
+}
+
+#login{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10%;
+	text-align: center;
+}
+
+#logoredes{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10%;
+	text-align: center;
+}
+span {
+	display: block;
+	width: 100%;
+}
+
+#txtconteudo01 {
+	font-size: 4em;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 22%;
+
+}
+#txtconteudo02 {
+	font-size: 6em;
+	text-transform: uppercase;
+	text-align: center;
+	padding:12px;
+}
+#conteudo {
+	min-height: 900px;
+	background-image: url("../imagens/sorvetefundo.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
