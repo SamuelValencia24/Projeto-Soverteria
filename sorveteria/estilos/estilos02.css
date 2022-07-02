@@ -1,0 +1,13 @@
+#endereco {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+#txtconteudo01, #txtconteudo02 {
+    font-family: 'Roboto', sans-serif;
+    color: antiquewhite;
+}
+#tito {
+    font-size: 30px;
+    color: antiquewhite;
+    text-transform: uppercase;
+}
